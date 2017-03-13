@@ -7,10 +7,14 @@ h1 {
   border-bottom: 1px solid #000;
 }
 
-/*legend {
-  padding: 0 1.05rem 0 0;
-}*/
-
 .bg-white {
   background-color: #fff;
+}
+
+@media only screen and (min-width: 60em) {
+
+  body {
+    padding: 0;
+  }
+
 }
